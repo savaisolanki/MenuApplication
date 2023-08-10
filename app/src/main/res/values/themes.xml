@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MenuApplication" parent="Theme.Material3.DayNight.NoActionBar"/>
+    <style name="Theme.MenuApplication" parent="Base.Theme.MenuApplication" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:colorBackground">#009688</item>
+        <item name="android:textColorPrimary">#673AB7</item>
+        <item name="android:textColorSecondary">#FF9800</item>
+    </style>
+</resources>

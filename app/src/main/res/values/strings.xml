@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuApplication</string>
+    <string name="pop_up">Pop Up Menu</string>
+    <string name="options">Options Menu</string>
+    <string name="context">Context Menu</string>
+    <string name="react_native">React Native</string>
+    <string name="python">Python</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="android">Android</string>
+</resources>
